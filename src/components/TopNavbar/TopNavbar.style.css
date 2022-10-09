@@ -1,0 +1,17 @@
+.flex{
+    display: flex;
+}
+.justify-spacebetween{
+    justify-content: space-between;
+}
+.logo-wrapper{
+    width: 150px;
+    /* display: flex; */
+}
+.nav-links-wrapper{
+    margin: 0;
+    /* display: flex; */
+}
+.nav-link-item{
+    /* display: flex; */
+}
