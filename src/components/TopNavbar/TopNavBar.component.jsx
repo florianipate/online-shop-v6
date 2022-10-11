@@ -29,7 +29,7 @@ const TopNavbar = () =>{
                             <li className="nav-link-item has-dropdown">
                                 <Link>Submenu Link 3</Link>
                                 <span className="arrow"></span>
-                                <ul className="submenu1">
+                                {/* <ul className="submenu1">
                                     <li className="nav-link-item">
                                         <Link>Inner Submenu Link 1</Link>
                                     </li>
@@ -42,7 +42,7 @@ const TopNavbar = () =>{
                                     <li className="nav-link-item">
                                         <Link>inner Submenu Link 4</Link>
                                     </li>
-                                </ul>
+                                </ul> */}
 
 
 
