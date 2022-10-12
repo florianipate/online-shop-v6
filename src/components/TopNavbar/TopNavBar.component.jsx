@@ -28,7 +28,7 @@ const TopNavbar = () =>{
                             </li>
                             <li className="nav-link-item has-dropdown">
                                 <Link>Submenu Link 3</Link>
-                                <span className="arrow"></span>
+                                {/* <span className="arrow"></span> */}
                                 {/* <ul className="submenu1">
                                     <li className="nav-link-item">
                                         <Link>Inner Submenu Link 1</Link>
