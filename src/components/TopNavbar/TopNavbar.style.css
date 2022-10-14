@@ -62,12 +62,14 @@ nav{
     margin-top: -0.75rem;
     margin-left: 5px;
 }
+
 .arrow::before{
     padding: 5px;
 }
 .down{
     transform: rotate(45deg);
 }
+
 @media(min-width:660px){
     .top-nav-wrapper{
         display: flex;
